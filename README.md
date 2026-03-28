@@ -12,7 +12,7 @@ Este setup foi construído com foco em minimalismo, elegância e produtividade, 
 Aqui está uma visão geral do meu desktop atualizado:
 
 <p align="center">
-  <img src="image_0.png" width="90%" alt="Screenshot do Desktop do João Ferreira">
+  <img src="images/fedora-niri-preview.png" width="90%" alt="Screenshot do Desktop do João Ferreira">
 </p>
 
 ### 🛠️ Especificações do Setup:
