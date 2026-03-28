@@ -1,4 +1,3 @@
-```
 # 🌌 Fedora Niri Dotfiles - João Ferreira
 
 Bem-vindo ao repositório das minhas configurações pessoais (dotfiles) para o Fedora Workstation, rodando o compositor **Niri (Wayland)**.
@@ -59,4 +58,3 @@ Se você já tem o Niri instalado no seu Fedora, siga estes passos para usar a m
 * À comunidade Fedora pela melhor distribuição Linux.
 
 ---
-```
